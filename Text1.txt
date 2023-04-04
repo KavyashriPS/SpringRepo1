@@ -1,1 +1,1 @@
-textinf file
+text new  file
